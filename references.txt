@@ -1,0 +1,11 @@
+http://javascript.crockford.com/code.html
+http://stackoverflow.com/questions/11816431/how-to-add-a-html5-canvas-within-a-div
+http://getbootstrap.com/
+http://jquery.com/download/
+http://www.rw-designer.com/cursor-set/comix
+http://stackoverflow.com/questions/4550505/getting-random-value-from-an-array
+https://css-tricks.com/almanac/properties/c/cursor/
+http://www.sitepoint.com/creating-accurate-timers-in-javascript/
+http://stackoverflow.com/questions/2604450/how-to-create-a-jquery-clock-timer
+http://www.w3schools.com/tags/canvas_rect.asp
+http://www.w3schools.com/tags/canvas_fillrect.asp

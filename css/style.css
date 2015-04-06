@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    cursor: url(../images/left_ptr.cur), auto;
+}
+img {
+	cursor: url(../images/pointer.cur), pointer;
+}
